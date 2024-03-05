@@ -1,0 +1,19 @@
+{
+    "user": "Aldor",
+    "Utbildningar": [
+        {
+            "name": "My First Project",
+            "description": "Skapad 2023",
+            "progress": 100
+        },
+        {
+            "name": "My Second Project",
+            "description": "Skapad 2024",
+            "progress": 55
+        }
+    ],
+    "Arbete": [
+        {"workplace": "Chas Academy"},
+        {"workplace": "Qlok"}
+    ]
+}
